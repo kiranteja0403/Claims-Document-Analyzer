@@ -71,6 +71,7 @@ The system returns the most relevant information from the document.
 
 Project Structure
 
+```
 claims-document-analyzer/
 │
 ├── app/
@@ -98,6 +99,7 @@ claims-document-analyzer/
 ├── requirements.txt
 ├── .env.example
 └── venv/
+```
 
 ---
 
